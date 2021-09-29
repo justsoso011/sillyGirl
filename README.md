@@ -18,7 +18,7 @@ set sillyGirl update_notify false
 
 ##### 傻妞内置赞赏码
 
-set sillyGirl appreciate https://gitee.com/aiancandle/sillyGirl/raw/main/appreciate.jpg
+set sillyGirl appreciate ？
 
 ##### 设置青龙openapi的client_id参数
 
